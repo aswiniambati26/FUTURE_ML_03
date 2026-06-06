@@ -1,0 +1,11 @@
+python Libraries:
+pandas
+numpy
+scikit-learn
+NLP-based resume parsing
+TF-IDF similarity matching
+matplotlib
+seaborn
+
+Tools:
+Jupyter Notebook
