@@ -38,6 +38,9 @@ To address these challenges, this project automates the initial screening proces
 
 ---
 
+##DataSet used:https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset/data
+Resume.csv
+
 ## Project Workflow
 
 ### 1. Data Collection
